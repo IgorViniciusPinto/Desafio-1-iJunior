@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot](https://github.com/user-attachments/assets/2ba90acf-ac1a-454a-978f-73226a8018fc)
 
 
 ### Links
