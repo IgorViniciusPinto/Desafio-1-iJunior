@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/bhuvi819381/News-Homepage.git]
-- Live Site URL: []
+- Live Site URL: [https://igorviniciuspinto.github.io/Desafio-1-iJunior/]
 
 
 ## My process
