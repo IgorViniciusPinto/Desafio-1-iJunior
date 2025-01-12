@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/bhuvi819381/News-Homepage.git]
+- Solution URL: [https://github.com/IgorViniciusPinto/Desafio-1-iJunior.git]
 - Live Site URL: [https://igorviniciuspinto.github.io/Desafio-1-iJunior/]
 
 
