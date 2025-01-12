@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/IgorViniciusPinto/Desafio-1-iJunior.git]
+- Solution URL: [file:///C:/Users/igorv/Desktop/frontend/desafio%201/index.html]
 - Live Site URL: [https://igorviniciuspinto.github.io/Desafio-1-iJunior/]
 
 
